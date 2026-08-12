@@ -179,7 +179,7 @@ AI/ML Engineering
 └── Building Practical AI Applications
 
 ---
-📈 What I'm Building
+**📈 What I'm Building
 
 I enjoy working on projects that combine AI with real-world applications.
 
@@ -198,14 +198,14 @@ Practical Solution
 My goal is to continuously improve my ability to take an AI idea from concept → implementation → usable application.
 ---
 
-🤝 Let's Connect
+**🤝 Let's Connect
 
 I'm interested in AI/ML opportunities, collaborative projects, and building practical AI applications.
 
 <div align="center"> <a href="https://www.linkedin.com/in/sai-kiran-boya-a46311322/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:saikiranboya35@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://wa.me/916300339684"> <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> <a href="tel:+916300339684"> <img src="https://img.shields.io/badge/Phone-+91%206300339684-0F9D58?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/> </a> </div>
 <div align="center">
-💡 Build. Learn. Experiment. Repeat.
+**💡 Build. Learn. Experiment. Repeat.
 
-⭐ Thanks for visiting my profile!
+**⭐ Thanks for visiting my profile!
 
 </div> ```
