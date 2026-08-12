@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Sai Kiran Boya
+# 👋 Hi, I'm SAI KIRAN BOYA
 
-### AI/ML | Generative AI & LLM Applications | Computer Vision | Data Analytics
+### AI/ML | Generative AI & LLM Applications | Computer Vision | RAG | Data Analytics
 
 AI/ML undergraduate focused on building practical intelligent applications across Generative AI, Computer Vision, Machine Learning, and Data Analytics.
 
@@ -241,8 +241,6 @@ graph LR
     classDef step fill:#0A66C2,stroke:#003D7A,stroke-width:2px,color:#fff,font-weight:bold;
     class A,B,C,D,E,F,G step;
 ```
-
-I enjoy taking an AI idea from concept to a working, usable application.
 
 ---
 
