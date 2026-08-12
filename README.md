@@ -11,7 +11,7 @@ AI/ML undergraduate focused on building practical intelligent applications acros
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:saikiranboya35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://wa.me/916300339684">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
@@ -208,58 +208,41 @@ B.Tech, Artificial Intelligence and Machine Learning
 
 ## 🎯 Current Focus
 
-```text
-AI/ML Engineering
-│
-├── Machine Learning & Deep Learning
-├── Generative AI & LLM Applications
-├── Retrieval-Augmented Generation (RAG)
-├── Computer Vision
-├── Natural Language Processing
-├── Data Analytics & SQL
-├── DSA & Problem Solving
-└── Practical AI Application Development
+```mermaid
+graph TD
+    A["🎯 AI/ML Engineering"] --> B["Machine Learning & Deep Learning"]
+    A --> C["Generative AI & LLM Applications"]
+    A --> D["Retrieval-Augmented Generation - RAG"]
+    A --> E["Computer Vision"]
+    A --> F["Natural Language Processing"]
+    A --> G["Data Analytics & SQL"]
+    A --> H["DSA & Problem Solving"]
+    A --> I["Practical AI Application Development"]
+
+    classDef root fill:#6C3EDB,stroke:#4B2C99,stroke-width:2px,color:#fff,font-weight:bold;
+    classDef leaf fill:#1C3C3C,stroke:#0F9D58,stroke-width:1px,color:#fff;
+    class A root;
+    class B,C,D,E,F,G,H,I leaf;
 ```
 
 ---
 
 ## 🔬 How I Build AI Solutions
 
-```text
-Problem
-   ↓
-Data
-   ↓
-AI / ML
-   ↓
-Application
-   ↓
-Evaluation
-   ↓
-Improvement
-   ↓
-Practical Solution
+```mermaid
+graph LR
+    A["🧩 Problem"] --> B["📊 Data"]
+    B --> C["🤖 AI / ML"]
+    C --> D["🛠️ Application"]
+    D --> E["🧪 Evaluation"]
+    E --> F["📈 Improvement"]
+    F --> G["✅ Practical Solution"]
+
+    classDef step fill:#0A66C2,stroke:#003D7A,stroke-width:2px,color:#fff,font-weight:bold;
+    class A,B,C,D,E,F,G step;
 ```
 
 I enjoy taking an AI idea from concept to a working, usable application.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in AI/ML opportunities, collaborative projects, and building practical AI applications.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sai-kiran-boya-a46311322/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:saikiranboya35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/916300339684">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
 
 ---
 
