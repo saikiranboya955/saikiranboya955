@@ -4,7 +4,7 @@
 
 ### AI/ML | Generative AI & LLM Applications | Computer Vision | Data Analytics
 
-Building practical AI systems, intelligent applications, and computer-vision solutions using Python, machine learning, and modern AI technologies.
+AI/ML undergraduate focused on building practical intelligent applications across Generative AI, Computer Vision, Machine Learning, and Data Analytics.
 
 <p>
   <a href="https://www.linkedin.com/in/sai-kiran-boya-a46311322/">
@@ -16,9 +16,6 @@ Building practical AI systems, intelligent applications, and computer-vision sol
   <a href="https://wa.me/916300339684">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="tel:+916300339684">
-    <img src="https://img.shields.io/badge/Call-0F9D58?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
   <a href="https://github.com/saikiranboya955">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -28,140 +25,184 @@ Building practical AI systems, intelligent applications, and computer-vision sol
 
 ---
 
-## 🧠 About Me
+## 🧠 AI Journey
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-- 🤖 Focused on **Machine Learning, Generative AI, LLM Applications, and Computer Vision**
-- 🐍 Building practical AI applications using **Python and SQL**
-- 👁️ Exploring **Computer Vision, Face Recognition, Hand Tracking, and Image Processing**
-- 🧠 Interested in **RAG systems, NLP, LLM applications, and intelligent automation**
-- ⚙️ Developing backend applications with **Flask and FastAPI**
-- 💻 Strengthening **DSA, problem solving, and software engineering skills**
-- 🚀 Passionate about turning AI concepts into practical applications
+- 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** at Sri Indu College of Engineering & Technology, Telangana
+- 🤖 Skilled in **Data Structures & Algorithms, Machine Learning, Data Analytics, and Generative AI**
+- 🐍 Proficient in **Python and SQL**, with hands-on experience building AI applications
+- 🧩 Hands-on experience with **LLMs, RAG, Deep Learning, and NLP**
+- 👁️ Practical exposure to **Computer Vision** through real-world projects
+- 🚀 Seeking internship opportunities in **AI/ML, Data Science, and Software Development**
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Technical Arsenal
 
-### 🤖 AI & Machine Learning
+**🤖 AI & Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8E44AD?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-5C2D91?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**🧠 Generative AI & LLMs**
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-6C3EDB?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLM_Applications-111827?style=flat-square)
-
-### 🧠 Generative AI & Data
-
+![RAG](https://img.shields.io/badge/RAG-4B5EAA?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
-### 👁️ Computer Vision
+**👁️ Computer Vision**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-00A6C8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square)
-![Face Recognition](https://img.shields.io/badge/Face_Recognition-4B5563?style=flat-square)
 
-### 💻 Development & Tools
+**📊 Data & Analytics**
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**💻 Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**🛠️ Developer Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected AI Projects
 
-### 👁️ ClassVision AI
+### 🤖 SarojaAstra AI — Intelligent AI Assistant
 
-**Smart Attendance Management System** using face recognition with QR-based backup attendance.
+Developed a multimodal AI assistant integrating local LLMs, conventional memory, document intelligence, and real-time web search for context-aware responses across documents and web-based queries.
 
-**Key Features**
+**Key capabilities**
+- Multimodal AI interaction with local LLMs
+- Document intelligence and RAG-based question answering
+- Vector database search (LangChain-powered retrieval)
+- Real-time web search integration
+- Support for online/offline AI workflows
+- Context-aware responses across documents and web queries
 
+**Tech stack:** Python • LLMs • RAG • LangChain • Vector Databases • FastAPI • React
+
+---
+
+### 🏥 MedAssistAI — AI Healthcare Application
+
+Developing an AI-based application for disease prediction using Python and Scikit-learn, with a machine-learning pipeline covering data preprocessing, model training, evaluation, and deployment — achieving **90% test accuracy**.
+
+**Key areas**
+- Disease prediction
+- Data preprocessing
+- Machine learning model training
+- Model evaluation
+- Deployment
+
+**Performance:** 90% test accuracy
+
+**Tech stack:** Python • Scikit-learn • Machine Learning • Data Preprocessing
+
+---
+
+### 🎥 ClassVision AI — Face Recognition Attendance System
+
+A smart attendance management system using real-time face recognition with QR-based backup attendance.
+
+**Key features**
 - Real-time face-recognition attendance
 - Student registration and face dataset capture
 - Global duplicate-face prevention
 - QR-based backup attendance
 - Attendance sessions and attendance editing
-- Audit tracking
-- Faculty authentication
+- Audit tracking and faculty authentication
 - Student profiles and attendance management
 
-**Tech:** Python • Flask • OpenCV • Face Recognition • SQLite • JavaScript • Pandas • NumPy
+**Tech stack:** Python • OpenCV • Flask • SQLite • JavaScript • Pandas • NumPy
 
 🔗 [View Repository](https://github.com/saikiranboya955/CLASSVISION-AI)
 
 ---
 
-### 🌸 Neon Aura AR
+### 🌾 HarvestHub — AI-Driven Agricultural Platform
 
-**Real-Time AI Hand Tracking & Interactive Digital Art**
+An AI-driven agricultural platform exploring practical machine learning applications for farming decisions.
 
-A browser-based computer-vision experience that uses MediaPipe Hands to transform real-time hand movements into interactive visual effects.
+**Key areas**
+- Crop recommendation
+- Agricultural price forecasting
+- Multilingual interaction
+- Voice assistance
 
-**Key Features**
+---
 
-- Tracks up to two hands
-- 21 hand landmarks per hand
+### ✋ Neon Aura AR — Real-Time AI Hand Tracking & Interactive Digital Art
+
+A browser-based computer-vision experience using MediaPipe Hands to transform real-time hand movements into interactive visual effects.
+
+**Key features**
+- Tracks up to two hands with 21 landmarks per hand
 - Real-time gesture recognition
-- Pinch and hand-state detection
-- Finger-spread analysis
-- Interactive visual effects
-- Two-hand interaction
-- Web Audio integration
-- Dynamic visual themes
+- Pinch and fist/open-hand detection
+- Finger-spread calculation
+- Interactive visual effects with two-hand interaction
+- Web Audio integration and multiple visual themes
 
-**Tech:** MediaPipe • JavaScript • HTML5 Canvas • Web Camera API • Web Audio API
+**Tech stack:** MediaPipe • JavaScript • HTML5 Canvas • Web Camera API • Web Audio API
 
 🔗 [View Repository](https://github.com/saikiranboya955/HANDS-DETECTION-AI)
 
 ---
 
-### 🏥 MedAssistAI
-
-An AI-focused healthcare application developed as a team project, combining data processing, model training, and web application development.
-
-**Focus:** AI/ML • Data Processing • Model Training • Web Application Development
-
----
-
-### 🌾 HarvestHub
-
-An AI-driven agricultural platform exploring practical applications of machine learning and intelligent systems for agriculture.
-
-**Key Areas**
-
-- Crop recommendation
-- Agricultural price forecasting
-- Multilingual interaction
-- AI-powered assistance
-
-**Focus:** Machine Learning • Generative AI • Data Analytics • Voice Interaction
-
----
-
 ## 💼 Professional Experience
 
-- **Codec Technologies India** — Python Development
-- **JPMorgan Chase & Co.** — Data Analytics Virtual Experience Program
-- **Tata / Forage** — GenAI-Powered Data Analytics Job Simulation
-- **Accenture** — AI Job Simulation
-- **Infosys Springboard** - AIML Internship 
+**Infosys Springboard** — Artificial Intelligence Intern
+*July 2026 – Present*
+- Developing MedAssistAI for disease prediction using Python and Scikit-learn, achieving 90% test accuracy
+- Working across the ML pipeline: data preprocessing, model training, evaluation, and deployment
+
+**Codec Technologies India** — Python Developer Intern
+*August 2025 – November 2025*
+- Developed Python applications using OOP and modular programming
+- Worked on project-based problem solving, file handling, and exception handling
+- Contributed to debugging, and building and maintaining Python applications
 
 ---
 
-## 📚 Certifications & Learning
+## 🌱 Professional Learning
 
+- **TATA / Forage** — GenAI-Powered Data Analytics Job Simulation
+- **Accenture** — AI Job Simulation
 - **Oracle Cloud** — Generative AI
-- **Infosys Springboard** — Machine Learning & NLP
+- **DataFlair** — MySQL
+- **Infosys Springboard** — AI/ML/NLP
+- **GeeksforGeeks** — DSA with Python
+- **GeeksforGeeks** — Python
+
+---
+
+## 🎓 Education
+
+**Sri Indu College of Engineering & Technology, Telangana**
+B.Tech, Artificial Intelligence and Machine Learning
+2023 – 2027 | CGPA: 7.5/10
 
 ---
 
@@ -177,36 +218,55 @@ AI/ML Engineering
 ├── Natural Language Processing
 ├── Data Analytics & SQL
 ├── DSA & Problem Solving
-└── Building Practical AI Applications
+└── Practical AI Application Development
+```
 
 ---
-##📈 What I'm Building
 
-I enjoy working on projects that combine AI with real-world applications.
+## 🔬 How I Build AI Solutions
 
+```text
 Problem
    ↓
 Data
    ↓
-Machine Learning / AI
+AI / ML
    ↓
-Application Development
+Application
    ↓
-Testing & Improvement
+Evaluation
+   ↓
+Improvement
    ↓
 Practical Solution
+```
 
-My goal is to continuously improve my ability to take an AI idea from concept → implementation → usable application.
+I enjoy taking an AI idea from concept to a working, usable application.
+
 ---
 
-##🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm interested in AI/ML opportunities, collaborative projects, and building practical AI applications.
 
-<div align="center"> <a href="https://www.linkedin.com/in/sai-kiran-boya-a46311322/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:saikiranboya35@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://wa.me/916300339684"> <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> <a href="tel:+916300339684"> <img src="https://img.shields.io/badge/Phone-+91%206300339684-0F9D58?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/> </a> </div>
 <div align="center">
-##💡 Build. Learn. Experiment. Repeat.
+  <a href="https://www.linkedin.com/in/sai-kiran-boya-a46311322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saikiranboya35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/916300339684">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 
-##⭐ Thanks for visiting my profile!
+---
 
-</div> ```
+<div align="center">
+
+### 💡 Build. Learn. Experiment. Repeat.
+
+Thanks for visiting my profile! ⭐
+
+</div>
