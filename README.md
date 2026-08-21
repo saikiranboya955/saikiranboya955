@@ -104,18 +104,23 @@ Developed a multimodal AI assistant integrating local LLMs, conventional memory,
 
 ### 🏥 MedAssistAI — AI Healthcare Application
 
-Developing an AI-based application for disease prediction using Python and Scikit-learn, with a machine-learning pipeline covering data preprocessing, model training, evaluation, and deployment — achieving **90% test accuracy**.
+Completed and deployed an AI-based healthcare application for disease prediction and healthcare assistance using Python, Machine Learning, React, and FastAPI. The platform includes a complete machine-learning pipeline for symptom analysis, disease prediction, risk and severity assessment, health reports, appointments, prescriptions, and role-based Patient, Doctor, and Admin workflows.
 
 **Key areas**
 - Disease prediction
-- Data preprocessing
-- Machine learning model training
-- Model evaluation
-- Deployment
+- Symptom analysis and preprocessing
+- Machine learning model integration
+- Risk and severity assessment
+- Health reports and recommendations
+- Patient, Doctor, and Admin workflows
+- Appointment and prescription management
+- Full-stack application deployment
 
-**Performance:** 90% test accuracy
+**Live Website:** https://medassistai-frontend.vercel.app
 
-**Tech stack:** Python • Scikit-learn • Machine Learning • Data Preprocessing
+**Repository:** https://github.com/saikiranboya955/MedAssistAI
+
+**Tech stack:** Python • FastAPI • React • PostgreSQL • Scikit-learn • XGBoost • LightGBM • Machine Learning
 
 ---
 
