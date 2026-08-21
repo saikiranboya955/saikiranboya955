@@ -52,7 +52,6 @@ AI/ML undergraduate focused on building practical intelligent applications acros
 ![LLMs](https://img.shields.io/badge/LLM_Applications-111827?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-4B5EAA?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 
 **👁️ Computer Vision**
 
